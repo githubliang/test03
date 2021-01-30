@@ -1,5 +1,8 @@
 package com;
 
 public class AA {
-  System.out.println("aaa");
+
+    public static void main(String[] args) {
+        System.out.println("aaa");
+    }
 }
